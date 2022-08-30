@@ -1,5 +1,4 @@
 from datetime import date
-#Creates aNumber with the value -2
 aNumber = -2
 #Creates aDecimal with the value 7.1
 aDecimal = 7.1
