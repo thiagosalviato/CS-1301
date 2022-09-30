@@ -1,9 +1,8 @@
-my_var_1 = 7
-my_var_2 = 4
-my_var_1 //= my_var_2
-my_var_2 **= my_var_1
-my_var_2 %= my_var_1
-my_var_1 *= my_var_2
+a = 5
+b = -1
+c = 4
+d = 5
 
-print(my_var_1)
-print(my_var_2)
+element = (a / d) == (b / b)
+
+print(element)
