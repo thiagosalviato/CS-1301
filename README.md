@@ -23,3 +23,4 @@ Introduction to computing principles and programming practices with an emphasis 
 - To be able to use and combine control flow constructs to form useful programs.
 - To understand and become familiar with a number of simple data structures.
 - Through labs become comfortable with common software packages in use today.
+- [The complete list of Learning Outcomes](https://www.cc.gatech.edu/classes/AY2016/cs1301_spring/codesamples/cs1301LearningOutcomes.pdf)
